@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!--
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoberselli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Ferramentas e Tecnologias
 <div align="center" margin-right=2px;>
@@ -36,13 +38,12 @@ Here are some ideas to get you started:
 ### Contatos:
 
 
-<div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center">
+<a href="https://instagram.com/diegoberselliii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:diegoberselliz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/diegoberselli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation](https://github.com/diegoberselli/diegoberselli/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 -->
