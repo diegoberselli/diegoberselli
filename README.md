@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoberselli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
@@ -46,5 +46,4 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/diegoberselli/diegoberselli/blob/output/github-contribution-grid-snake.svg)
   
 </div>
--->
 
