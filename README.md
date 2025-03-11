@@ -44,6 +44,12 @@ Here are some ideas to get you started:
           
 </div>  
 
+### Certificações:
+<div margin-right=2px>
+ <span style="color: blue;">Apache Cassandra 3 Developer Associate Certification</span>
+</div>  
+  
+
 ### Contatos:
 
 
